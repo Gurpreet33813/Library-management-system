@@ -1,3 +1,7 @@
+from add import add_books
+from show import show_books
+from issue import issue_books
+from return import return_books
 #!MAIN BODY
 def library():
     while True:
